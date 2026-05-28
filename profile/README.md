@@ -12,7 +12,7 @@ Some projects are independent. Some connect to each other. All of them come from
 
 A compact whiteboard-cleaning hardware project and FDM mechanism testbed.
 
-Improving on [OTO](https://github.com/Keem-tt/OTO-Whiteboard-Cleaner), OTO v2 is being developed with three things in mind: faster, cheaper, and sleeker.
+Improving on [OTO](https://github.com/Keem-tt/OTO-Whiteboard-Cleaner), a senior capstone automated whiteboard cleaner built around printed parts, Arduino control, and rack-and-pinion motion, OTO v2 is being developed with three things in mind: faster, cheaper, and sleeker.
 
 Status: early prototype / active development.
 
