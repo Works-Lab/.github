@@ -12,7 +12,7 @@ Some projects are independent. Some connect to each other. All of them come from
 
 A compact whiteboard-cleaning hardware project and FDM mechanism testbed.
 
-OTO v2 is being used to work through printed mechanisms, rails, pad interfaces, fastener bosses, service behavior, and the gap between a clean concept and something that survives real use.
+Improving on OTO (https://github.com/Keem-tt/OTO-Whiteboard-Cleaner), OTO v2 is being developed with 3 things in mind: Faster, Cheaper and Sleeker.
 
 Status: early prototype / active development.
 
@@ -22,7 +22,7 @@ An NFC-enabled smart scale for tracking containers, empty weights, and remaining
 
 Trace starts with meal prep: register a container once, save its empty weight, assign a cheap NFC tag, and use the scale to identify what it is and how much is left.
 
-Status: early prototype / active development.
+Status: working prototype / active development.
 
 ## Working style
 
@@ -30,4 +30,4 @@ Works Lab projects are documented while they are still becoming something.
 
 Expect rough prototypes, design notes, hardware experiments, firmware sketches, CAD iterations, and practical tradeoffs.
 
-The goal is not to present finished products too early. The goal is to make the work visible enough to improve it.
+The goal is not to present finished products too early but to make the work visible enough to improve it.
