@@ -2,32 +2,56 @@
 
 Open hardware and software by Kadeem and Bryan.
 
-Works Lab is a public home for practical projects across hardware, product design, firmware, robotics, and local-first tools.
+Practical projects across hardware, product design, firmware, robotics, and local-first tools. These are all our ideas we refused to leave in a notes app.
 
-Some projects are independent. Some connect to each other. All of them come from the same place: turning ideas into working systems instead of letting them sit in a notes app forever.
+## [Numenant](https://github.com/Works-Lab/numenant)
 
-## Projects
+**The intelligence inside the work.**
 
-### OTO v2
+Numenant understands the system it lives in and acts on it. One foundation, built to run any domain.
 
-A compact whiteboard-cleaning hardware project and FDM mechanism testbed.
+**Forge**\
+Fabrication. Printing, finishing, and production.\
+*In development*
 
-Improving on [OTO](https://github.com/Keem-tt/OTO-Whiteboard-Cleaner), a senior capstone automated whiteboard cleaner built around printed parts, Arduino control, and rack-and-pinion motion, OTO v2 is being developed with three things in mind: faster, cheaper, and sleeker.
+**Grove**\
+Cultivation.\
+*In development*
 
-Status: early prototype / active development.
+**Hearth**\
+The home. Climate, devices, and sensors.\
+*In development*
 
-### Trace
+Built on Numenant.
 
-An NFC-enabled smart scale for tracking containers, empty weights, and remaining contents.
+## [Panelini](https://github.com/Works-Lab/panelini)
 
-Trace starts with meal prep: register a container once, save its empty weight, assign a cheap NFC tag, and use the scale to identify what it is and how much is left.
+Small Mac apps that live in the menu bar.
 
-Status: working prototype / active development.
+**Lista**\
+A checklist, one click away.\
+*In development*
 
-## Working style
+**Priva**\
+Black out the screen. Bring it back.\
+*In development*
 
-Works Lab projects are documented while they are still becoming something.
+## [OTO v2](https://github.com/Works-Lab/oto)
 
-Expect rough prototypes, design notes, hardware experiments, firmware sketches, CAD iterations, and practical tradeoffs.
+**A compact whiteboard cleaner, and a testbed for printed mechanisms.**
 
-The goal is not to present finished products too early but to make the work visible enough to improve it.
+OTO v2 builds on [OTO](https://github.com/Keem-tt/OTO-Whiteboard-Cleaner), a senior capstone project made with printed parts, Arduino control, and rack-and-pinion motion. The goal for v2: faster, cheaper, and sleeker.
+
+*Paused*
+
+## [Trace](https://github.com/Works-Lab/trace)
+
+**A smart scale that knows what it’s weighing.**
+
+Register a container once. Trace saves its empty weight, pairs it with an NFC tag, and tells you how much is left. Built first for meal prep.
+
+*Paused*
+
+## How we work
+
+We document projects as they take shape: prototypes, design notes, firmware, CAD, and the tradeoffs between them. The goal? Having fun :)
