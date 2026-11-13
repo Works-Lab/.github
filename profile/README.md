@@ -4,11 +4,15 @@ Open hardware and software by Kadeem and Bryan.
 
 Practical projects across hardware, product design, firmware, robotics, and local-first tools. These are all our ideas we refused to leave in a notes app.
 
+<img src="https://raw.githubusercontent.com/Works-Lab/.github/main/profile/assets/numenant.svg" alt="Numenant" width="100%">
+
 ## [Numenant](https://github.com/Works-Lab/numenant)
 
 **The intelligence inside the work.**
 
 Numenant understands the system it lives in and acts on it. One foundation, built to run any domain.
+
+<img src="https://raw.githubusercontent.com/Works-Lab/.github/main/profile/assets/forge-hearth.svg" alt="Forge, powered by Numenant. Hearth by Numenant." width="100%">
 
 **Forge**\
 Fabrication. Printing, finishing, and production.\
@@ -24,9 +28,13 @@ The home. Climate, devices, and sensors.\
 
 Built on Numenant.
 
+<img src="https://raw.githubusercontent.com/Works-Lab/.github/main/profile/assets/panelini.svg" alt="Panelini" width="100%">
+
 ## [Panelini](https://github.com/Works-Lab/panelini)
 
 Small Mac apps that live in the menu bar.
+
+<img src="https://raw.githubusercontent.com/Works-Lab/.github/main/profile/assets/lista-priva.svg" alt="Lista. Priva." width="100%">
 
 **Lista**\
 A checklist, one click away.\
